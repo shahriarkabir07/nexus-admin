@@ -2,7 +2,7 @@
 
 A sleek, fully responsive **Admin Dashboard UI** built with pure HTML5 and CSS3. No frameworks, no JavaScript dependencies — just clean, modern front-end code.
 
-![Dashboard Preview](preview.png)
+
 
 ---
 
